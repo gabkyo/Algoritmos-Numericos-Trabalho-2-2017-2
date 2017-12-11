@@ -1,4 +1,5 @@
 function [n, m, x1, xn, y1, ym, Nitermax, w, etol]=leitura
+  #le os dados basicos
   n=input("Digite n.")
   m=input("Digite m.")
   x1=input("Digite X1.")
